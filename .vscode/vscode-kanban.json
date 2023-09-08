@@ -1,0 +1,66 @@
+{
+  "todo": [],
+  "in-progress": [],
+  "testing": [],
+  "done": [
+    {
+      "assignedTo": {
+        "name": "Ronnie y Salomé"
+      },
+      "category": "HU1",
+      "creation_time": "2023-09-08T03:39:23.491Z",
+      "id": "3",
+      "prio": 10,
+      "references": [],
+      "title": "Actualizar una tarea."
+    },
+    {
+      "assignedTo": {
+        "name": "Santiago y Salomé"
+      },
+      "category": "HU1",
+      "creation_time": "2023-09-08T03:38:16.739Z",
+      "id": "1",
+      "prio": 10,
+      "references": [],
+      "title": "Crear una tarea"
+    },
+    {
+      "assignedTo": {
+        "name": "Santiago y Ronnie"
+      },
+      "category": "HU1",
+      "creation_time": "2023-09-08T03:39:40.611Z",
+      "id": "4",
+      "prio": 10,
+      "references": [],
+      "title": "Eliminar una tarea."
+    },
+    {
+      "assignedTo": {
+        "name": "Santiago, Salomé, Ronnie"
+      },
+      "category": "HU1",
+      "creation_time": "2023-09-08T03:41:10.177Z",
+      "description": {
+        "content": "Realizar pruebas unitarias para el CRUD",
+        "mime": "text/markdown"
+      },
+      "id": "5",
+      "prio": 10,
+      "references": [],
+      "title": "Pruebas Unitarias"
+    },
+    {
+      "assignedTo": {
+        "name": "Ronnie"
+      },
+      "category": "HU1",
+      "creation_time": "2023-09-08T03:39:11.986Z",
+      "id": "2",
+      "prio": 10,
+      "references": [],
+      "title": "Visualizar tareas."
+    }
+  ]
+}

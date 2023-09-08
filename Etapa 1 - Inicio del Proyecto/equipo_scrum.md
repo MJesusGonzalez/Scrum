@@ -6,9 +6,9 @@ Equipo paleta
 
 ## Integrantes
 
-- Salome Garzon
+- Salomé Garzon
 - Santiago Gualotuna
-- Ronnie Gonzalez
+- Ronnie González
 - Jean Pierre Villacís
 - Jesus González
 
