@@ -1,4 +1,27 @@
-| Entrada | Historia de usuario                                    | Valor del negocio | Aceptada (SI/NO) | Estimación en Horas | Observaciones            |
-| ------- | ------------------------------------------------------ | ----------------- | ---------------- | ------------------- | ------------------------ |
-| 1.1     | Realizar las Operaciones CRUD para una lista de tareas | 10                | SI               | 7 horas             | Posible 8h de estimacion |
-| 1.2     | Filtrado de la lista de tareas                         | 7                 | SI               | 4 horas             | Ninguna                  |
+# Priorizar Product Backlog
+
+## DEBE TENER: Primer elemento
+
+1. Tarea: Realizar las Operaciones CRUD para una lista de tareas
+
+- Valor del Negocio (1 al 10):
+  - 10
+- Aceptada (SI/NO):
+  - SI
+- Estimación en horas:
+  - 7 horas
+- Observaciones:
+  - Dada la complejidad de la tarea, la mejor estimación a considerar por el equipo puede ser de 8 horas.
+
+## DEBERÍA TENER: Segundo elemento
+
+2. Tarea: Filtrado de la lista de tareas
+
+- Valor del Negocio (1 al 10):
+  - 7
+- Aceptada (SI/NO):
+  - SI
+- Estimación en horas:
+  - 4 horas
+- Observaciones:
+  - Ninguna
