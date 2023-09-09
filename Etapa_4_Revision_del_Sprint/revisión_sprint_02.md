@@ -2,7 +2,7 @@
 
 ## Detalles de la Reunión:
 
-- Fecha: 8 de septiembre de 2023
+- Fecha: 11 de septiembre de 2023
 - Hora: 10:00 am
 - Duración: 2 horas
 
@@ -21,7 +21,7 @@
 
 ## Objetivo
 
-- El objetivo de esta sesión es mostrar a los interesados y al equipo el trabajo realizado durante el Sprint actual. Queremos demostrar cómo la Historia de Usuario ha sido implementada en la To-Do List en consola, recibir retroalimentación de los interesados y discutir posibles ajustes y mejoras. El propósito es asegurar que el producto sea coherente con las expectativas y necesidades del cliente y que estemos listos para planificar el próximo Sprint.
+- El objetivo de esta sesión es mostrar a los interesados y al equipo el trabajo realizado durante el último sprint. Queremos demostrar la implementada de la segunda historia de usuario; lo cual completa el proyecto, recibir retroalimentación de los interesados y discutir sobre el producto final. El propósito es asegurar que el producto sea coherente con las expectativas y necesidades del cliente y que estemos listos para realizar el cierre de proyecto.
 
 ## Agenda de la Reunión:
 
@@ -40,13 +40,12 @@
 
 - Discusión de las Historias de Usuario completadas durante el Sprint.
 - Confirmación de que las Historias de Usuario cumplen con los criterios de aceptación.
-- Identificación de posibles mejoras o ajustes necesarios.
 
-### Planificación de la siguiente revisión
+### Planificación de la siguiente reunión para el cierre
 
-- Fecha: 10 de septiembre de 2023
+- Fecha: 11 de septiembre de 2023
 - Hora: 10:00 am
 
 ### Resumen;
 
-El trabajo realizado en el primer sprint fue realizado acorde a las actividades establecidas en el sprint backlog. Además, se logró completar la primera historia de usuario, validando los cirterios de aceptación. Gracias a ello, en esta reunión el producto owner aprobado el trabajo realizado y autorizó continuar con el siguiente sprint.
+El trabajo realizado en este último sprint fue realizado acorde a las actividades establecidas en el sprint backlog. Además, se logró completar la todas las historia de usuario, validando los criterios de aceptación. Gracias a ello, en esta reunión el product owner ha aprobado el trabajo realizado y autorizó la preparación del producto para hacer la entrega y cierre el proyecto.

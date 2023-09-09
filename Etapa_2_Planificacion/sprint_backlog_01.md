@@ -16,35 +16,35 @@
 - Descripción: Crear una tarea.
 - Responsable: Santiago y Salomé
 - Estimación de Esfuerzo: 2 horas
-- Estado: Por hacer
+- Estado: Hecho
 
 ### Tarea #2
 
 - Descripción: Visualizar tareas.
 - Responsable: Ronnie.
 - Estimación de Esfuerzo: 2 horas
-- Estado: Por hacer
+- Estado: Hecho
 
 ### Tarea #3
 
 - Descripción: Actualizar una tarea.
 - Responsable: Ronnie y Salomé
 - Estimación de Esfuerzo: 2 horas
-- Estado: Por hacer
+- Estado: Hecho
 
 ### Tarea #4
 
 - Descripción: Eliminar una tarea.
 - Responsable: Santiago y Ronnie.
 - Estimación de Esfuerzo: 2 horas
-- Estado: Por hacer
+- Estado: Hecho
 
 ### Tarea #5
 
 - Descripción: Realizar las pruebas unitarias
 - Responsable: Santiago, Salomé y Ronnie.
 - Estimación de Esfuerzo: 1 horas
-- Estado: Por hacer
+- Estado: Hecho
 
 ### Reuniones y Comunicación:
 

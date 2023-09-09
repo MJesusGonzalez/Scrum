@@ -12,7 +12,7 @@
 
 ## Resumen de la Reunión:
 
-- Temas Discutidos: Actividades del primer sprint como: visualizar tarea, crear tarea y eliminar tarea.
+- Temas Discutidos: Actividades del primer sprint como visualizar tarea, crear tarea y eliminar tarea.
 - Logros: Se completó la actividad de visualizar tarea y crear tarea.
 
 ## Actualizaciones de Estado:

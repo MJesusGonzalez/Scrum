@@ -16,14 +16,14 @@
   - Jean Pierre Villacis
   - Jesus González
 
-## Coordinacióin de operaciones
+## Coordinación de operaciones
 
 - Fecha de implementación: 11 de septiembre de 2023
 - Notificación a los usuarios:
-  -
+  - 1
 - Capacitación a los usuarios:
-  -
+  - 1
 
 ## Gestión de riesgos ante fallos:
 
--
+- 1
