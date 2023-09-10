@@ -28,7 +28,7 @@ El objetivo de esta reunión de retrospectiva del proyecto después del cierre e
 ## Lecciones Aprendidas
 
 - La comunicación mejoró significativamente cuando comenzamos a celebrar reuniones breves diarias de sincronización.
-- la constante retroalimentación sobre el trabajo realizado ayudó a complender los aciertos y fallos durante el desarrollo.
+- la constante retroalimentación sobre el trabajo realizado ayudó a comprender los aciertos y fallos durante el desarrollo.
 
 ## Áreas de Mejora
 
@@ -42,6 +42,4 @@ El objetivo de esta reunión de retrospectiva del proyecto después del cierre e
 
 ## Cierre
 
-- Para Agradecimiento a todo el equipo por su dedicación y esfuerzo en el proyecto de la To-Do List en consola.
-
-- Reflexión sobre cómo la agilidad y la adaptación constante son fundamentales para el logro de los objetivos.
+Para finalizar se agradecó a todo el equipo por su dedicación y esfuerzo en el proyecto de la To-Do List en consola. Además se realizó una breve reflexión sobre cómo el uso de Scrum, la adaptación y comunicación constante son fundamentales para el logro de los objetivos.

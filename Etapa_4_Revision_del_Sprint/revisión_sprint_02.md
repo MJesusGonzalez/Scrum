@@ -41,11 +41,11 @@
 - Discusión de las Historias de Usuario completadas durante el Sprint.
 - Confirmación de que las Historias de Usuario cumplen con los criterios de aceptación.
 
-### Planificación de la siguiente reunión para el cierre
+### Planificación de la siguiente reunión para el cierre:
 
 - Fecha: 11 de septiembre de 2023
 - Hora: 10:00 am
 
-### Resumen;
+### Resumen:
 
 El trabajo realizado en este último sprint fue realizado acorde a las actividades establecidas en el sprint backlog. Además, se logró completar la todas las historia de usuario, validando los criterios de aceptación. Gracias a ello, en esta reunión el product owner ha aprobado el trabajo realizado y autorizó la preparación del producto para hacer la entrega y cierre el proyecto.

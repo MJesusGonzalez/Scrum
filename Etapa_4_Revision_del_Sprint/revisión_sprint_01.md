@@ -42,11 +42,11 @@
 - Confirmación de que las Historias de Usuario cumplen con los criterios de aceptación.
 - Identificación de posibles mejoras o ajustes necesarios.
 
-### Planificación de la siguiente revisión
+### Planificación de la siguiente revisión:
 
 - Fecha: 10 de septiembre de 2023
 - Hora: 10:00 am
 
-### Resumen;
+### Resumen:
 
 El trabajo realizado en el primer sprint fue realizado acorde a las actividades establecidas en el sprint backlog. Además, se logró completar la primera historia de usuario, validando los criterios de aceptación. Gracias a ello, en esta reunión el producto owner ha aprobado el trabajo realizado y autorizó continuar con el siguiente sprint.
