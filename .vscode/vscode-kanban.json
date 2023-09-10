@@ -61,6 +61,54 @@
       "prio": 10,
       "references": [],
       "title": "Visualizar tareas."
+    },
+    {
+      "assignedTo": {
+        "name": "Santiago y Ronnie."
+      },
+      "category": "HU2",
+      "creation_time": "2023-09-10T00:03:24.347Z",
+      "id": "8",
+      "prio": 7,
+      "references": [],
+      "title": "Crear nuevas opciones en el menú para presentar solo las tareas filtradas."
+    },
+    {
+      "assignedTo": {
+        "name": "Salomé y Ronnie"
+      },
+      "category": "HU2",
+      "creation_time": "2023-09-10T00:02:44.827Z",
+      "id": "7",
+      "prio": 7,
+      "references": [],
+      "title": "Crear un campo para poder marcar las tareas y cambiar su estado."
+    },
+    {
+      "assignedTo": {
+        "name": "Santiago, Salomé"
+      },
+      "category": "HU2",
+      "creation_time": "2023-09-10T00:01:44.963Z",
+      "id": "6",
+      "prio": 7,
+      "references": [],
+      "title": "Crear un estado de completado o pendiente en una tarea."
+    },
+    {
+      "assignedTo": {
+        "name": "Santiago, Salomé, Ronnie"
+      },
+      "category": "HU2",
+      "creation_time": "2023-09-10T00:03:41.163Z",
+      "description": {
+        "content": "Realizar pruebas unitarias para el funcionamiento del estado de una tarea\n",
+        "mime": "text/markdown"
+      },
+      "id": "9",
+      "prio": 7,
+      "references": [],
+      "title": "Pruebas Unitarias"
     }
   ]
 }
