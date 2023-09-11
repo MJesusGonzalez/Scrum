@@ -14,7 +14,7 @@
 ### Tarea #1
 
 - Descripción: Crear una tarea.
-- Responsable: Santiago y Salomé
+- Responsable: Santiago
 - Estimación de Esfuerzo: 2 horas
 - Estado: Hecho
 
@@ -28,14 +28,14 @@
 ### Tarea #3
 
 - Descripción: Actualizar una tarea.
-- Responsable: Ronnie y Salomé
+- Responsable: Salomé
 - Estimación de Esfuerzo: 2 horas
 - Estado: Hecho
 
 ### Tarea #4
 
 - Descripción: Eliminar una tarea.
-- Responsable: Santiago y Ronnie.
+- Responsable: Santiago.
 - Estimación de Esfuerzo: 2 horas
 - Estado: Hecho
 

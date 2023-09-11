@@ -14,21 +14,21 @@
 ### Tarea #1
 
 - Descripción: Crear un estado de completado o pendiente en una tarea.
-- Responsable: Santiago, Salomé
+- Responsable: Santiago
 - Estimación de Esfuerzo: 2 horas
 - Estado: Hecho
 
 ### Tarea #2
 
 - Descripción: Crear un campo para poder marcar las tareas y cambiar su estado.
-- Responsable: Salomé y Ronnie.
+- Responsable: Ronnie.
 - Estimación de Esfuerzo: 3 horas
 - Estado: Hecho
 
 ### Tarea #3
 
 - Descripción: Crear nuevas opciones en el menú para presentar solo las tareas filtradas.
-- Responsable: Santiago y Ronnie.
+- Responsable: Salomé.
 - Estimación de Esfuerzo: 3 horas
 - Estado: Hecho
 
